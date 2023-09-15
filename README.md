@@ -48,3 +48,12 @@ when close to the bomb, there will be a hint on the screen telling you to intera
 7. After dropping the bomb, press key "Q", the terrorist can start the countdown-clock of the bomb, you will hear the audio of "the bomb has been planted.",
 also, the bomb will turn into light white color, which means it is going to explode soon. Also, you can see countdown clock over the bomb.
 8. If the countdown clock comes into 00:00, bomb explodes, the Ferris Wheel and the Corsair wil be destroyed.
+
+# Some Screenshots of the Game
+![image](https://github.com/Luca-0104/3D-AnimationGame-AmusementPark/assets/61484990/8fa134c1-994f-4fd6-b3a8-07b78950822f)
+
+
+![park](https://github.com/Luca-0104/3D-AnimationGame-AmusementPark/assets/61484990/da1097f1-439d-4ddc-9818-6053b16adab5)
+
+
+
