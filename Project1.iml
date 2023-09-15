@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module classpath="eclipse" classpath-dir="$MODULE_DIR$" type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="jar://$MODULE_DIR$/LWJGL/AppleJavaExtensions.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/LWJGL/asm-debug-all.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/LWJGL/jinput.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/LWJGL/laf-plugin-7.2.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/LWJGL/laf-widget-7.2.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/LWJGL/log4j-api-2.0-beta9.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/LWJGL/lwjgl_test.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/LWJGL/lwjgl_util_applet.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/LWJGL/lwjgl_util.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/LWJGL/lwjgl-debug.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/LWJGL/lwjgl.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/LWJGL/lzma.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/LWJGL/substance-7.2.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/LWJGL/trident-7.2.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/LWJGL/slick-util.jar!/" />
+    <src_description expected_position="0">
+      <src_folder value="file://$MODULE_DIR$/src" expected_position="0" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/.settings" />
+    </content>
+  </component>
+</module>
